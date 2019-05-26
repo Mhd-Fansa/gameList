@@ -1,0 +1,241 @@
+{
+
+  "games":     [
+            {
+                "name": "Grand Theft Auto 5",
+                "release": "2013-08-05T08:40:51.620Z",
+                "developer" : "Rockstar Games",
+                "imageUrl": "https://bobbybounce.files.wordpress.com/2013/09/gta-v-2013-08-30-300x300.jpg",
+                "price": "60$",
+                "discountPrice" : "40$",
+                "Platforms": [
+                    {
+                        "name": "PC",
+                        "NumberOfSales": 1156409
+                    }, {
+                        "name": "PS4",
+                        "NumberOfSales": 3098769
+                    }, {
+                        "name": "Xbox One",
+                        "NumberOfSales": 2512670
+                    }, {
+                        "name": "PS3",
+                        "NumberOfSales": 7123312
+                    }
+                ]
+            },
+            {
+                "name": "Metro Exodus",
+                "release": "2019-02-26T08:40:51.620Z",
+                "developer" : "4A Games",
+                "imageUrl": "https://www.thegamingreview.com/wp-content/uploads/2019/01/MetroExodus-300x300.jpg",
+                "price": "59$",
+                "Platforms": [
+                    {
+                        "name": "PC",
+                        "NumberOfSales": 156409
+                    }, {
+                        "name": "PS4",
+                        "NumberOfSales": 308769
+                    }, {
+                        "name": "Xbox One",
+                        "NumberOfSales": 251270
+                    }
+                ]
+            },
+            {
+                "name": "PlayerUnknown's Battlegrounds",
+                "release": "2017-02-26T08:40:51.620Z",
+                "developer" : "Bluehole",
+                "imageUrl": "https://i.ebayimg.com/images/g/XYAAAOSwCcZZ5jzb/s-l300.jpg",
+                "price": "40$",
+                "discountPrice" : "29$",
+                "Platforms": [
+                    {
+                        "name": "PC",
+                        "NumberOfSales": 11564090
+                    }, {
+                        "name": "PS4",
+                        "NumberOfSales": 3087690
+                    }, {
+                        "name": "Xbox One",
+                        "NumberOfSales": 2512709
+                    }
+                ]
+            },
+             {
+                "name": "The Legend of Zelda : Breath of the Wild",
+                "release": "2016-02-26T08:40:51.620Z",
+                "developer" : "Nintendo",
+                "imageUrl": "http://www.goclecd.fr/wp-content/uploads/buy-the-legend-of-zelda-breath-of-the-wild-cd-key-pc-download-img1.jpg",
+                "price": "59$",
+                "discountPrice" : "49$",
+                "Platforms": [
+                    {
+                        "name": "Nintendo Switch",
+                        "NumberOfSales": 6000190
+                    }
+                ]
+            },
+            {
+                "name": "Division 2",
+                "release": "2019-03-26T08:40:51.620Z",
+                "developer" : "Ubisoft",
+                "imageUrl": "https://i2.wp.com/gamesquill.com/wp-content/uploads/2019/01/A-Look-Ahead-Tom-Clancy%E2%80%99s-The-Division-2.jpg",
+                "price": "60$",
+                "Platforms": [
+                    {
+                        "name": "PC",
+                        "NumberOfSales": 1230239
+                    }, {
+                        "name": "PS4",
+                        "NumberOfSales": 4356870
+                    }, {
+                        "name": "Xbox One",
+                        "NumberOfSales": 2505012
+                    }
+                ]
+            },
+            {
+                "name": "Red Dead Redemption 2",
+                "release": "2018-10-26T08:40:51.620Z",
+                "developer" : "Rockstar Games",
+                "imageUrl": "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2F1c563541c34ac46711638e09929300ca.1000x1000x1.png",
+                "price": "59$",
+                "Platforms": [
+                    {
+                        "name": "PC",
+                        "NumberOfSales": 11564090
+                    }, {
+                        "name": "PS4",
+                        "NumberOfSales": 12587690
+                    }, {
+                        "name": "Xbox One",
+                        "NumberOfSales": 12512709
+                    }
+                ]
+            },
+             {
+                "name": "Lineage 2",
+                "release": "2003-02-26T08:40:51.620Z",
+                "developer" : "NC Soft",
+                "imageUrl": "https://lh6.googleusercontent.com/PcunzpDyxAK3qIbQ8UVqNBWqoTPNS2_iehBRuOxzb9sfeVIj2QCd9o3W9fDAIcMm8K-n3-2uysw=w300",
+                "price": "10$",
+                "Platforms": [
+                     {
+                        "name": "PC",
+                        "NumberOfSales": 11564090
+                    }
+                ]
+            },
+             {
+                "name": "Marvel's Spider-Man",
+                "release": "2018-02-26T08:40:51.620Z",
+                "developer" : "Insomniac Games",
+                "imageUrl": "http://netixstore.com/wp-content/uploads/2018/11/81d6JU6g1pL._AC_SL1500_-300x300.jpg",
+                "price": "59$",
+                "discountPrice" : "49$",
+                "Platforms": [
+                    {
+                        "name": "PS4",
+                        "NumberOfSales": 12587690
+                    }
+                ]
+            },
+             {
+                "name": "Forza Horizon 4",
+                "release": "2018-10-16T08:40:51.620Z",
+                "developer" : "Turn 10 Studios",
+                "imageUrl": "https://i0.wp.com/www.randomchievos.com/wp-content/uploads/forza-horizon-4-logo.gif?fit=300%2C300&ssl=1",
+                "price": "59$",
+                "discountPrice" : "49$",
+                "Platforms": [
+                    {
+                        "name": "PC",
+                        "NumberOfSales": 11564090
+                    },
+                    {
+                        "name": "Xbox One",
+                        "NumberOfSales": 12512709
+                    }
+                ]
+            },
+             {
+                "name": "Titanfall 2",
+                "release": "2017-08-05T08:40:51.620Z",
+                "developer" : "Respawn Entertainment",
+                "imageUrl": "http://www.vgmonline.net/wp-content/uploads/titanfall2.jpg",
+                "price": "29$",
+                "Platforms": [
+                    {
+                        "name": "PC",
+                        "NumberOfSales": 1153309
+                    }, {
+                        "name": "PS4",
+                        "NumberOfSales": 2098769
+                    }, {
+                        "name": "Xbox One",
+                        "NumberOfSales": 1512672
+                    }
+                ]
+            },
+            {
+                "name": "Battlefield V",
+                "release": "2018-11-05T08:40:51.620Z",
+                "developer" : "Electronic Arts",
+                "imageUrl": "https://cdn-az.allevents.in/banners/d93de460-ceb3-11e8-81c9-1b431fd718bc-rimg-w300-h300-dc9afeff-gmir.jpg",
+                "price": "59$",
+                "Platforms": [
+                    {
+                        "name": "PC",
+                        "NumberOfSales": 1153309
+                    }, {
+                        "name": "PS4",
+                        "NumberOfSales": 2098769
+                    }, {
+                        "name": "Xbox One",
+                        "NumberOfSales": 1512672
+                    }
+                ]
+            },
+             {
+                "name": "The Elder Scrolls : V Skyrim",
+                "release": "2013-11-05T08:40:51.620Z",
+                "developer" : "Bethesta Software",
+                "imageUrl": "https://vignette.wikia.nocookie.net/theducky/images/5/51/The-Elder-Scrolls-5-Skyrim-alltopgadgets-Wallpaper-300x300.jpg/revision/latest?cb=20120626115342",
+                "price": "18$",
+                "discountPrice" : "9$",
+                "Platforms": [
+                    {
+                        "name": "PC",
+                        "NumberOfSales": 1153309
+                    }, {
+                        "name": "PS4",
+                        "NumberOfSales": 2098769
+                    }, {
+                        "name": "Xbox One",
+                        "NumberOfSales": 1512672
+                    }
+                ]
+            },
+            {
+                    "name": "Dark Souls III",
+                    "release": "2018-11-05T08:40:51.620Z",
+                    "developer" : "From Software",
+                    "imageUrl": "https://www.psu.com/app/uploads/2017/03/17-03-21-07-50_0_large_darksouls3_ps4news1.jpg",
+                    "price": "29$",
+                    "Platforms": [
+                        {
+                            "name": "PC",
+                            "NumberOfSales": 1153309
+                        }, {
+                            "name": "PS4",
+                            "NumberOfSales": 2098769
+                        }, {
+                            "name": "Xbox One",
+                            "NumberOfSales": 1512672
+                        }
+                    ]
+                }
+        ]
+}
